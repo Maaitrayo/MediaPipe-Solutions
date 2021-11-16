@@ -10,3 +10,7 @@ Using MediaPipe and OpenCV for various machine learning tasks
 ## 3_hand_detection:
 ![](images/hand_detection.png)
 
+## 4_3D_objectDetection:
+![](images/3D_objectDetection.png)
+
+
