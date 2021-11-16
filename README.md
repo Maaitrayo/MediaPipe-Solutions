@@ -13,4 +13,11 @@ Using MediaPipe and OpenCV for various machine learning tasks
 ## 4_3D_objectDetection:
 ![](images/3D_objectDetection.png)
 
+## 5_holistic_detection:
+![](images/holistic_detection.png)
+
+
+
+
+
 
